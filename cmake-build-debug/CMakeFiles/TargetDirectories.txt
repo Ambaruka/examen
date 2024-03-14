@@ -1,0 +1,3 @@
+C:/Users/AmbarPC/Examen/intento/cmake-build-debug/CMakeFiles/intento.dir
+C:/Users/AmbarPC/Examen/intento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AmbarPC/Examen/intento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
